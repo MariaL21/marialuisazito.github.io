@@ -1,0 +1,31 @@
+*{
+    font-family: sans-serif;
+}
+
+div{
+    display: block;
+}
+
+.container_box {
+    display: flex;
+    padding: 1px 0;
+    position: absolute;
+}
+
+.single_box{
+    padding: 20px;
+    border: 3px solid #343b9e;
+    text-align: center;
+    margin: 15px;
+    max-width: 50%;
+
+}
+
+img {
+    max-width: 40%;
+}
+
+.icona{
+    max-width: 10%;
+}
+
